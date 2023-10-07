@@ -1,4 +1,4 @@
 # apnacollege-demo
 This my first Git Repository
 <br>
-Author - Hardik Jindal
+Author - Hardik (Apna College)
